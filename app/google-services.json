@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "257375438939",
+    "project_id": "netfacilitysales",
+    "storage_bucket": "netfacilitysales.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257375438939:android:9d29144c8b5c1e78a0177e",
+        "android_client_info": {
+          "package_name": "com.slt.devops.netfacilitysales"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257375438939-qi3d6ne4dh86ibqsjut4qarlve98k3ob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZIpQrtLjidTLx_c5ee-6kPvig6DmMq34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257375438939-qi3d6ne4dh86ibqsjut4qarlve98k3ob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

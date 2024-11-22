@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="service_type">
+        <item>Megaline Single Play</item>
+        <item>Megaline Double Play-IPTV</item>
+        <item>Megaline Double Play-BB</item>
+        <item>Megaline Triple Play</item>
+        <item>FTTH Double Play-IPTV</item>
+        <item>FTTH Double Play-BB</item>
+        <item>FTTH Triple Play</item>
+    </string-array>
+
+    <string-array name="honorifics">
+        <item>Mr</item>
+        <item>Miss</item>
+        <item>Mrs</item>
+        <item>Rev</item>
+    </string-array>
+
+    <string-array name="ftthbb">
+        <item>Any Blaze</item>
+        <item>Any Delight</item>
+        <item>Any Flix</item>
+        <item>Any Glam</item>
+        <item>Any Spike</item>
+        <item>Any Storm</item>
+        <item>Any Tide</item>
+        <item>Any Xtreme</item>
+        <item>School BB Package 1</item>
+        <item>School BB Package 2</item>
+        <item>School BB Package 3</item>
+        <item>School BB Package 4</item>
+        <item>School BB Package 5</item>
+        <item>School BB Package 6</item>
+        <item>Premium</item>
+        <item>SCHOOL BB</item>
+        <item>Web Booster</item>
+        <item>Web Champ</item>
+        <item>Web Family Active</item>
+        <item>Web Family Plus</item>
+        <item>Web Family Xtra</item>
+        <item>Web Inspire</item>
+        <item>Web Life</item>
+        <item>Web Master</item>
+        <item>Web Premier</item>
+        <item>Web Pro</item>
+    </string-array>
+
+    <string-array name="ftthiptv">
+        <item>PEO Family</item>
+        <item>PEO Silver</item>
+        <item>PEO Gold</item>
+        <item>PEO Platinum</item>
+        <item>PEO Entertainment</item>
+        <item>PEO Titanium</item>
+        <item>PEO Silver Plus</item>
+        <item>PEO Unnatham</item>
+    </string-array>
+
+    <string-array name="megalineiptv">
+        <item>PEO Family</item>
+        <item>PEO Silver</item>
+        <item>PEO Gold</item>
+        <item>PEO Platinum</item>
+        <item>PEO Entertainment</item>
+        <item>PEO Titanium</item>
+        <item>PEO Silver Plus</item>
+        <item>PEO Unnatham</item>
+    </string-array>
+
+    <string-array name="megalinebb">
+        <item>Abhimaana</item>
+        <item>Any Beat</item>
+        <item>Any Blaze</item>
+        <item>Any Delight</item>
+        <item>Any Flix</item>
+        <item>Any Glam</item>
+        <item>Any Joy</item>
+        <item>Any Spike</item>
+        <item>Any Storm</item>
+        <item>Any Tide</item>
+        <item>Any Xtreme</item>
+        <item>Dealers Pkg_Entree</item>
+        <item>Entree</item>
+        <item>School BB Package 1</item>
+        <item>School BB Package 2</item>
+        <item>School BB Package 3</item>
+        <item>School BB Package 4</item>
+        <item>SCHOOL BB</item>
+        <item>Student Package 1</item>
+        <item>Student Package 2</item>
+        <item>VDSL Web Champ</item>
+        <item>VDSL Web Family Plus</item>
+        <item>VDSL Web Family Xtra</item>
+        <item>VDSL Web Life</item>
+        <item>VDSL Web Master</item>
+        <item>VDSL Web Pro</item>
+        <item>VDSL_WEB INSPIRE</item>
+        <item>VDSL_WEB PREMIER</item>
+        <item>Web Booster</item>
+        <item>Web Champ</item>
+        <item>Web Family Active</item>
+        <item>Web Family Plus</item>
+        <item>Web Family Xtra</item>
+        <item>Web Inspire</item>
+        <item>Web Life</item>
+        <item>Web LITE</item>
+        <item>Web Master</item>
+        <item>Web Master Plus</item>
+        <item>Web PAL</item>
+        <item>Web Premier</item>
+        <item>Web Pro</item>
+        <item>Web Pro Plus</item>
+        <item>Web Starter</item>
+        <item>Web Surfer Plus</item>
+    </string-array>
+</resources>

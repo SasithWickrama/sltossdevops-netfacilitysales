@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+
+    <TableRow >
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:textColor="#ff000000"
+            android:textStyle="bold"
+            android:layout_span="2"/>
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#ff7f7f7f"
+            android:text="@string/description"/>
+
+        <TextView
+            android:id="@+id/discription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#ff7f7f7f" />
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#ff7f7f7f"
+            android:text="@string/type"/>
+
+        <TextView
+            android:id="@+id/type"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#ff7f7f7f" />
+
+    </TableRow>
+
+    <TableRow>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#ff7f7f7f"
+            android:text="@string/Used"/>
+
+        <TextView
+            android:id="@+id/used"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#ff7f7f7f" />
+
+    </TableRow>
+
+    <TableRow>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#ff7f7f7f"
+            android:text="@string/Free"/>
+
+        <TextView
+            android:id="@+id/free"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#ff7f7f7f" />
+
+    </TableRow>
+
+    <TableRow>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#ff7f7f7f"
+            android:text="@string/distance"/>
+
+        <TextView
+            android:id="@+id/distance"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#ff7f7f7f" />
+
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#ff7f7f7f"
+            android:layout_span="2"
+            android:text="@string/infowindowmsg"/>
+
+    </TableRow>
+</TableLayout>
